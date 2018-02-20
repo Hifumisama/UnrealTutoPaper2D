@@ -1,0 +1,1050 @@
+﻿Log file open, 02/20/18 10:12:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TutoPaper2d
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-383847257) SRandInit(-383847257).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170359
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.20-09.12.19:467][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-09.12.19:467][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.20-09.12.19:487][  0]LogInit: Computer: PC-B-4-320
+[2018.02.20-09.12.19:488][  0]LogInit: User: stagiaire
+[2018.02.20-09.12.19:488][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.20-09.12.19:488][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2018.02.20-09.12.19:488][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.02.20-09.12.19:488][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.20-09.12.19:488][  0]LogMemory: Process Physical Memory: 276.54 MB used, 276.54 MB peak
+[2018.02.20-09.12.19:488][  0]LogMemory: Process Virtual Memory: 276.93 MB used, 276.93 MB peak
+[2018.02.20-09.12.19:488][  0]LogMemory: Physical Memory: 9798.11 MB used,  22891.66 MB free, 32689.77 MB total
+[2018.02.20-09.12.19:488][  0]LogMemory: Virtual Memory: 685.14 MB used,  22891.66 MB free, 134217728.00 MB total
+[2018.02.20-09.12.19:699][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.20-09.12.19:699][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.20-09.12.19:701][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.20-09.12.19:702][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.20-09.12.20:067][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.20-09.12.20:273][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.20-09.12.20:293][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K620' (Feature Level 11_0)
+[2018.02.20-09.12.20:294][  0]LogD3D11RHI:       2017/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.20-09.12.20:296][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.20-09.12.20:296][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.20-09.12.20:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.20-09.12.20:301][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.20-09.12.20:301][  0]LogD3D11RHI:     GPU DeviceId: 0x13bb (for the marketing name, search the web for "GPU Device Id")
+[2018.02.20-09.12.20:301][  0]LogWindows: EnumDisplayDevices:
+[2018.02.20-09.12.20:301][  0]LogWindows:    0. 'NVIDIA Quadro K620' (P:1 D:1)
+[2018.02.20-09.12.20:301][  0]LogWindows:    1. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.20-09.12.20:301][  0]LogWindows:    2. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.20-09.12.20:301][  0]LogWindows:    3. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.20-09.12.20:301][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.20-09.12.20:301][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K620
+[2018.02.20-09.12.20:301][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.20-09.12.20:301][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.20-09.12.20:301][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.02.20-09.12.20:315][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.20-09.12.20:327][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.20-09.12.20:370][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Intermediate/Shaders/WorkingDirectory/11580/).
+[2018.02.20-09.12.20:370][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stagiaire/AppData/Local/Temp/UnrealShaderWorkingDir/826E4FC245F82EF42CE62481B07DA939/'.
+[2018.02.20-09.12.20:370][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.20-09.12.21:182][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.20-09.12.21:231][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.20-09.12.21:281][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.20-09.12.21:330][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.20-09.12.21:379][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.20-09.12.21:429][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.20-09.12.21:479][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.20-09.12.21:528][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.20-09.12.21:570][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.20-09.12.21:619][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.20-09.12.21:667][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.20-09.12.21:714][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.20-09.12.21:760][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.20-09.12.21:808][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.20-09.12.21:902][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.20-09.12.21:902][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.20-09.12.21:950][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.20-09.12.21:988][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.20-09.12.22:073][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.20-09.12.22:099][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.20-09.12.22:148][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.20-09.12.22:196][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.20-09.12.22:243][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.20-09.12.22:290][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.20-09.12.22:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.20-09.12.22:712][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.20-09.12.22:778][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-09.12.22:779][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.20-09.12.22:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.20-09.12.22:779][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.20-09.12.22:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.20-09.12.22:779][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.20-09.12.22:793][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.20-09.12.22:806][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stagiaire/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.20-09.12.22:815][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.20-09.12.22:816][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.20-09.12.22:816][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-09.12.22:816][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-09.12.23:133][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-09.12.23:436][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.20-09.12.23:473][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.20-09.12.23:473][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.20-09.12.23:473][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.20-09.12.23:473][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.20-09.12.23:473][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.20-09.12.23:497][  0]LogNetVersion: TutoPaper2d , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3459915010)
+[2018.02.20-09.12.23:665][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.20-09.12.24:152][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.044220 seconds
+[2018.02.20-09.12.24:159][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.20-09.12.24:159][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.20-09.12.24:159][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.20-09.12.24:214][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.20-09.12.26:847][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.20-09.12.26:886][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.20-09.12.27:512][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.20-09.12.27:911][  0]SourceControl: Source control is disabled
+[2018.02.20-09.12.27:911][  0]SourceControl: Source control is disabled
+[2018.02.20-09.12.27:959][  0]SourceControl: Source control is disabled
+[2018.02.20-09.12.28:007][  0]SourceControl: Source control is disabled
+[2018.02.20-09.12.28:739][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.20-09.12.28:983][  0]LogOcInput: OculusInput pre-init called
+[2018.02.20-09.12.29:247][  0]LogEngine: Initializing Engine...
+[2018.02.20-09.12.29:248][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.20-09.12.29:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.20-09.12.29:457][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.20-09.12.29:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.20-09.12.29:589][  0]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.12.29:609][  0]LogInit: FAudioDevice initialized.
+[2018.02.20-09.12.29:733][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-09.12.29:747][  0]LogInit: Texture streaming: Enabled
+[2018.02.20-09.12.29:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.20-09.12.29:962][  0]LogInit: Transaction tracking system initialized
+[2018.02.20-09.12.30:256][  0]BlueprintLog: New page: Editor Load
+[2018.02.20-09.12.31:091][  0]LocalizationService: Localization service is disabled
+[2018.02.20-09.12.31:783][  0]LogConsoleResponse: Display: 
+[2018.02.20-09.12.31:950][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.20-09.12.31:950][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.20-09.12.31:951][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.20-09.12.32:244][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/' took 0.02s
+[2018.02.20-09.12.33:053][  0]SourceControl: Source control is disabled
+[2018.02.20-09.12.33:053][  0]Cmd: MAP LOAD FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.20-09.12.33:056][  0]LightingResults: New page: Lighting Build
+[2018.02.20-09.12.33:097][  0]MapCheck: New page: Map Check
+[2018.02.20-09.12.33:097][  0]LightingResults: New page: Lighting Build
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:108][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:108][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:108][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:108][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:108][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:556][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:556][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:556][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:630][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:630][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:630][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:630][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:631][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:631][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:631][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:631][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:631][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:632][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:632][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:632][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:659][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:660][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.20-09.12.33:660][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.20-09.12.33:660][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:660][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:660][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:660][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:661][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:662][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:663][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:669][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:669][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:669][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.20-09.12.33:669][  0]LoadErrors: Failed to load /Game/Blueprint/Ennemy.Ennemy_C Referenced by PersistentLevel
+[2018.02.20-09.12.33:669][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.20-09.12.33:669][  0]LoadErrors: Failed to load /Game/Blueprint/Ennemy.Ennemy_C Referenced by PersistentLevel
+[2018.02.20-09.12.33:814][  0]LogAIModule: Creating AISystem for world 2dlevel
+[2018.02.20-09.12.33:824][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.20-09.12.33:834][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.20-09.12.33:882][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.87ms to complete.
+[2018.02.20-09.12.33:882][  0]LogFileHelpers: Loading map '2dlevel' took 0.829
+[2018.02.20-09.12.34:023][  0]LogCollectionManager: Loaded 0 collections in 0.001659 seconds
+[2018.02.20-09.12.34:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Collections/' took 0.01s
+[2018.02.20-09.12.34:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Developers/stagiaire/Collections/' took 0.01s
+[2018.02.20-09.12.34:100][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Collections/' took 0.01s
+[2018.02.20-09.12.34:100][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.20-09.12.34:108][  0]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 2363 classes and 519 folders.
+[2018.02.20-09.12.34:167][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.20-09.12.34:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.20-09.12.34:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.20-09.12.34:520][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.20-09.12.34:522][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.20-09.12.34:530][  0]LogSlate: Took 0.003585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.20-09.12.34:623][  0]LogRenderer: Reallocating scene render targets to support 592x540 Format 10 NumSamples 1 (Frame:1).
+[2018.02.20-09.12.34:657][  0]LogSlate: Took 0.003402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-09.12.34:766][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.20-09.12.34:766][  0]LogLoad: (Engine Initialization) Total time: 17.81 seconds
+[2018.02.20-09.12.34:766][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.20-09.12.34:766][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AIPerception': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AISenseConfig_Sight_0': AIPerceptionComponent /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210.AIPerception
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'projectileSpawner': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:106][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite0': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.20-09.12.35:123][  0]LogAssetRegistry: Asset discovery search completed in 11.4810 seconds
+[2018.02.20-09.12.35:125][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.20-09.12.35:125][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.02.20-09.12.35:127][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.20-09.19.10:087][853]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-09.19.10:181][853]LogAIModule: Creating AISystem for world DestructibleWalls
+[2018.02.20-09.19.10:199][853]Cmd: MAP LOAD FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/DestructibleWalls.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.20-09.19.10:199][853]LightingResults: New page: Lighting Build
+[2018.02.20-09.19.10:199][853]LoadErrors: New page: Loading map: DestructibleWalls.umap
+[2018.02.20-09.19.10:200][853]MapCheck: New page: Map Check
+[2018.02.20-09.19.10:200][853]LightingResults: New page: Lighting Build
+[2018.02.20-09.19.10:253][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.20-09.19.10:313][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.20-09.19.10:365][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.005ms to complete.
+[2018.02.20-09.19.10:366][853]LogFileHelpers: Loading map 'DestructibleWalls' took 0.168
+[2018.02.20-09.19.20:955][101]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.20-09.19.38:351][159]LogSavePackage: Save=71.29ms
+[2018.02.20-09.19.38:351][159]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TilesetAndMapTestEE2D6EAC4C42ED9CEB1A61A818A12584.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/TilesetAndMapTest.umap'
+[2018.02.20-09.19.38:358][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/TilesetAndMapTest.umap
+[2018.02.20-09.19.38:363][159]LogFileHelpers: Saving map 'TilesetAndMapTest' took 0.150
+[2018.02.20-09.19.46:445][ 97]LogSavePackage: Save=26.52ms
+[2018.02.20-09.19.46:445][ 97]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleWallsTest177BBD56450DBF5FFF42EF83C3CC878E.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/DestructibleWallsTest.umap'
+[2018.02.20-09.19.46:449][ 97]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/DestructibleWallsTest.umap
+[2018.02.20-09.19.46:506][ 97]LogFileHelpers: Saving map 'DestructibleWallsTest' took 0.149
+[2018.02.20-09.19.50:088][514]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc)
+[2018.02.20-09.20.05:716][345]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.02.20-09.20.06:359][345]LogSlate: Took 0.003803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.20-09.20.06:478][346]LogSlate: Took 0.003208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.20-09.20.59:470][316]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.21.57:232][971]LogSavePackage: Save=38.39ms
+[2018.02.20-09.21.57:232][971]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc9CC592FE47CCC1CE5515F6ABBB37DFA8.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.21.57:236][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.10:164][949]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.02.20-09.24.14:010][284]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.24.14:798][285]LogSavePackage: Save=38.49ms
+[2018.02.20-09.24.14:798][285]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc29DEAC8040F930494446B69ACA17FE56.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.24.14:802][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.24.18:454][677]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.24.18:521][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.24.18:522][677]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:24:18 AM)
+[2018.02.20-09.24.18:522][677]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.24.18:523][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001147s)
+[2018.02.20-09.24.18:524][677]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.24.18:524][677]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.02.20-09.24.18:524][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002035s)
+[2018.02.20-09.24.18:542][677]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.24.18:549][677]LogInit: FAudioDevice initialized.
+[2018.02.20-09.24.18:593][677]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.24.18:596][677]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.24.18
+[2018.02.20-09.24.18:597][677]LogWorld: Bringing up level for play took: 0.001107
+[2018.02.20-09.24.18:638][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.20-09.24.18:639][677]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.31
+[2018.02.20-09.24.26:585][621]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc3)
+[2018.02.20-09.25.19:359][864]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.25.20:414][892]LogSavePackage: Save=41.29ms
+[2018.02.20-09.25.20:414][892]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBlocE6413A2E47E7DF18216494A28DF49203.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.25.20:417][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.25.21:803][ 22]LogEditorViewport: Clicking Background
+[2018.02.20-09.25.23:846][262]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.25.23:875][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.25.23:875][262]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:25:23 AM)
+[2018.02.20-09.25.23:875][262]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.25.23:877][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001401s)
+[2018.02.20-09.25.23:877][262]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.25.23:878][262]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2018.02.20-09.25.23:878][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002429s)
+[2018.02.20-09.25.23:895][262]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.25.23:902][262]LogInit: FAudioDevice initialized.
+[2018.02.20-09.25.23:935][262]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.25.23:937][262]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.25.23
+[2018.02.20-09.25.23:938][262]LogWorld: Bringing up level for play took: 0.001144
+[2018.02.20-09.25.23:939][262]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.39
+[2018.02.20-09.25.24:619][343]LogScript: Warning: Attempted to access Projectile_C_0 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_0 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.24:619][343]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_0 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_0 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_0 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_0 is pending kill
+[2018.02.20-09.25.25:777][482]LogScript: Warning: Attempted to access Projectile_C_1 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_1 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.25:777][482]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_1 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_1 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_1 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_1 is pending kill
+[2018.02.20-09.25.26:044][514]LogScript: Warning: Attempted to access Projectile_C_2 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_2 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.26:044][514]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_2 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_2 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_2 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_2 is pending kill
+[2018.02.20-09.25.26:336][549]LogScript: Warning: Attempted to access Projectile_C_3 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_3 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.26:336][549]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_3 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_3 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_3 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_3 is pending kill
+[2018.02.20-09.25.26:636][585]LogScript: Warning: Attempted to access Projectile_C_4 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_4 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.26:636][585]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_4 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_4 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_4 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_4 is pending kill
+[2018.02.20-09.25.27:069][637]LogScript: Warning: Attempted to access Projectile_C_5 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_5 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.27:069][637]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_5 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_5 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_5 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_5 is pending kill
+[2018.02.20-09.25.27:436][681]LogScript: Warning: Attempted to access Projectile_C_6 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_6 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.27:436][681]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_6 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_6 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_6 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_6 is pending kill
+[2018.02.20-09.25.27:794][724]LogScript: Warning: Attempted to access Projectile_C_7 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_7 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.27:794][724]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_7 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_7 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_7 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_7 is pending kill
+[2018.02.20-09.25.28:144][766]LogScript: Warning: Attempted to access Projectile_C_8 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_8 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.28:144][766]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_8 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_8 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_8 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_8 is pending kill
+[2018.02.20-09.25.28:477][806]LogScript: Warning: Attempted to access Projectile_C_9 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_9 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.28:478][806]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_9 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_9 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_9 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_9 is pending kill
+[2018.02.20-09.25.28:811][846]LogScript: Warning: Attempted to access Projectile_C_10 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_10 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.28:811][846]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_10 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_10 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_10 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_10 is pending kill
+[2018.02.20-09.25.29:119][883]LogScript: Warning: Attempted to access Projectile_C_11 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_11 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.29:119][883]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_11 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_11 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_11 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_11 is pending kill
+[2018.02.20-09.25.29:344][910]LogScript: Warning: Attempted to access Projectile_C_12 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_12 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.29:344][910]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_12 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_12 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_12 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_12 is pending kill
+[2018.02.20-09.25.29:519][931]LogScript: Warning: Attempted to access Projectile_C_13 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_13 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.29:519][931]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_13 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_13 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_13 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_13 is pending kill
+[2018.02.20-09.25.29:694][952]LogScript: Warning: Attempted to access Projectile_C_14 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_14 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.29:694][952]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_14 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_14 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_14 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_14 is pending kill
+[2018.02.20-09.25.29:886][975]LogScript: Warning: Attempted to access Projectile_C_15 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_15 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.29:886][975]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_15 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_15 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_15 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_15 is pending kill
+[2018.02.20-09.25.30:095][  0]LogScript: Warning: Attempted to access Projectile_C_16 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_16 is pending kill
+	DestructibleBloc_C /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest:PersistentLevel.DestructibleBloc3
+	Function /Game/Blueprint/Destructibles/DestructibleBloc.DestructibleBloc_C:ExecuteUbergraph_DestructibleBloc:008C
+[2018.02.20-09.25.30:095][  0]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_16 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_16 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_16 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_16 is pending kill
+[2018.02.20-09.25.30:428][ 40]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_17 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_17 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_17 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_17 is pending kill
+[2018.02.20-09.25.30:594][ 60]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_18 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_18 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_18 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_18 is pending kill
+[2018.02.20-09.25.30:786][ 83]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_19 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_19 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_19 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_19 is pending kill
+[2018.02.20-09.25.32:420][279]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_20 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_20 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_20 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_20 is pending kill
+[2018.02.20-09.25.32:661][308]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_21 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_21 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_21 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_21 is pending kill
+[2018.02.20-09.25.32:811][326]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_22 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_22 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_22 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_22 is pending kill
+[2018.02.20-09.25.50:755][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.25.50:784][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.25.50:784][457]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:25:50 AM)
+[2018.02.20-09.25.50:784][457]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.25.50:785][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001289s)
+[2018.02.20-09.25.50:786][457]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.25.50:786][457]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2018.02.20-09.25.50:786][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002402s)
+[2018.02.20-09.25.50:804][457]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.25.50:812][457]LogInit: FAudioDevice initialized.
+[2018.02.20-09.25.50:843][457]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.25.50:845][457]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.25.50
+[2018.02.20-09.25.50:846][457]LogWorld: Bringing up level for play took: 0.001390
+[2018.02.20-09.25.50:847][457]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.518
+[2018.02.20-09.25.51:536][539]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_0 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_0 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Set WallActualHp in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_0 via property K2Node_DynamicCast_AsProjectile, but Projectile_C_0 is pending kill
+[2018.02.20-09.26.51:588][987]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.26.52:726][ 34]LogSavePackage: Save=39.07ms
+[2018.02.20-09.26.52:726][ 34]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc7021D99C46ED21FCDA25D6AAC69E6CE3.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.26.52:730][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.27.56:921][943]LogEditorViewport: Clicking Background
+[2018.02.20-09.27.57:533][ 16]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc2)
+[2018.02.20-09.29.55:116][459]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-09.30.04:589][487]LogSavePackage: Save=28.03ms
+[2018.02.20-09.30.04:589][487]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleWallsTest_Auto16123258B4513C09DAD2CF89E87CF21BE.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto1.umap'
+[2018.02.20-09.30.04:592][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto1.umap
+[2018.02.20-09.30.04:594][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/testLevels/DestructibleWallsTest' took 0.134
+[2018.02.20-09.30.04:594][487]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.134
+[2018.02.20-09.30.04:597][487]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Destructibles/leftDestructibleBloc] ([1] browsable assets)...
+[2018.02.20-09.30.04:597][487]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Destructibles/leftDestructibleBloc]
+[2018.02.20-09.30.04:680][487]LogSavePackage: Save=12.85ms
+[2018.02.20-09.30.04:680][487]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/leftDestructibleBloc_Auto1162E61BC4E646B0D853A349B39B3C36E.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto1.uasset'
+[2018.02.20-09.30.04:682][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto1.uasset
+[2018.02.20-09.30.04:682][487]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.02.20-09.32.57:713][379]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.32.58:933][422]LogSavePackage: Save=44.72ms
+[2018.02.20-09.32.58:933][422]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc7207184E43C12FBB9DC4C89D3DEC8478.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.32.58:938][422]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.33.03:025][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.33.03:054][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.33.03:054][829]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:33:03 AM)
+[2018.02.20-09.33.03:054][829]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.33.03:056][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2018.02.20-09.33.03:056][829]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.33.03:057][829]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2018.02.20-09.33.03:057][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002486s)
+[2018.02.20-09.33.03:075][829]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.33.03:083][829]LogInit: FAudioDevice initialized.
+[2018.02.20-09.33.03:116][829]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.33.03:119][829]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.33.03
+[2018.02.20-09.33.03:119][829]LogWorld: Bringing up level for play took: 0.001665
+[2018.02.20-09.33.03:121][829]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.792
+[2018.02.20-09.33.06:780][256]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.33.06:808][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.33.06:808][256]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:33:06 AM)
+[2018.02.20-09.33.06:809][256]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.33.06:810][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2018.02.20-09.33.06:810][256]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.33.06:811][256]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2018.02.20-09.33.06:811][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002515s)
+[2018.02.20-09.33.06:827][256]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.33.06:834][256]LogInit: FAudioDevice initialized.
+[2018.02.20-09.33.06:866][256]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.33.06:867][256]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.33.06
+[2018.02.20-09.33.06:867][256]LogWorld: Bringing up level for play took: 0.000959
+[2018.02.20-09.33.06:869][256]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.54
+[2018.02.20-09.39.02:385][ 33]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.39.03:462][ 64]LogSavePackage: Save=43.37ms
+[2018.02.20-09.39.03:462][ 64]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc90EAE62D4944B3386D09C4AD18C49EA6.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.39.03:467][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.39.06:585][404]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.39.06:614][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.39.06:614][404]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:39:06 AM)
+[2018.02.20-09.39.06:614][404]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.39.06:615][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001289s)
+[2018.02.20-09.39.06:616][404]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.39.06:616][404]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.02.20-09.39.06:616][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002370s)
+[2018.02.20-09.39.06:634][404]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.39.06:642][404]LogInit: FAudioDevice initialized.
+[2018.02.20-09.39.06:674][404]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.39.06:676][404]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.39.06
+[2018.02.20-09.39.06:676][404]LogWorld: Bringing up level for play took: 0.001019
+[2018.02.20-09.39.06:678][404]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.348
+[2018.02.20-09.39.15:606][467]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc3)
+[2018.02.20-09.39.21:302][131]LogSavePackage: Save=26.37ms
+[2018.02.20-09.39.21:302][131]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleWallsTest73E1139F415D6EFB83CA89933128D324.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/DestructibleWallsTest.umap'
+[2018.02.20-09.39.21:310][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/DestructibleWallsTest.umap
+[2018.02.20-09.39.25:076][563]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.39.25:105][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.39.25:105][563]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:39:25 AM)
+[2018.02.20-09.39.25:105][563]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.39.25:106][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001196s)
+[2018.02.20-09.39.25:107][563]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.39.25:107][563]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.02.20-09.39.25:107][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002180s)
+[2018.02.20-09.39.25:128][563]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.39.25:134][563]LogInit: FAudioDevice initialized.
+[2018.02.20-09.39.25:166][563]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.39.25:168][563]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.39.25
+[2018.02.20-09.39.25:168][563]LogWorld: Bringing up level for play took: 0.000917
+[2018.02.20-09.39.25:169][563]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.84
+[2018.02.20-09.41.00:712][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.41.00:741][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.41.00:741][ 69]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:41:00 AM)
+[2018.02.20-09.41.00:741][ 69]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.41.00:743][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001523s)
+[2018.02.20-09.41.00:744][ 69]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.41.00:744][ 69]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.02.20-09.41.00:744][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002567s)
+[2018.02.20-09.41.00:763][ 69]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.41.00:769][ 69]LogInit: FAudioDevice initialized.
+[2018.02.20-09.41.00:800][ 69]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.41.00:802][ 69]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.41.00
+[2018.02.20-09.41.00:802][ 69]LogWorld: Bringing up level for play took: 0.000915
+[2018.02.20-09.41.00:803][ 69]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.474
+[2018.02.20-09.42.16:558][317]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.42.17:725][360]LogSavePackage: Save=44.41ms
+[2018.02.20-09.42.17:726][360]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc8937F59C430692E254657BBA8BEF3CA1.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.42.17:729][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.42.20:177][630]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.42.20:207][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.42.20:207][630]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:42:20 AM)
+[2018.02.20-09.42.20:207][630]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.42.20:208][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001460s)
+[2018.02.20-09.42.20:209][630]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.42.20:209][630]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.02.20-09.42.20:210][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002559s)
+[2018.02.20-09.42.20:228][630]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.42.20:236][630]LogInit: FAudioDevice initialized.
+[2018.02.20-09.42.20:270][630]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.42.20:272][630]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.42.20
+[2018.02.20-09.42.20:272][630]LogWorld: Bringing up level for play took: 0.001045
+[2018.02.20-09.42.20:273][630]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.056
+[2018.02.20-09.42.20:997][716]LogBlueprintUserMessages: [DestructibleBloc3] fail x)
+[2018.02.20-09.42.22:314][874]LogBlueprintUserMessages: [DestructibleBloc3] fail x)
+[2018.02.20-09.42.22:780][930]LogBlueprintUserMessages: [DestructibleBloc3] fail x)
+[2018.02.20-09.42.43:875][ 16]BlueprintLog: New page: Compile Projectile
+[2018.02.20-09.42.44:671][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.20-09.42.44:765][ 53]LogSavePackage: Save=24.21ms
+[2018.02.20-09.42.44:765][ 53]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/ProjectileCE63166F4EF7CB61F877819675EFF633.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.20-09.42.44:769][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.20-09.42.46:668][263]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.42.46:697][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.42.46:697][263]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:42:46 AM)
+[2018.02.20-09.42.46:697][263]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.42.46:698][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2018.02.20-09.42.46:699][263]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.42.46:699][263]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.02.20-09.42.46:700][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002488s)
+[2018.02.20-09.42.46:718][263]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.42.46:724][263]LogInit: FAudioDevice initialized.
+[2018.02.20-09.42.46:755][263]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.42.46:757][263]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.42.46
+[2018.02.20-09.42.46:758][263]LogWorld: Bringing up level for play took: 0.000968
+[2018.02.20-09.42.46:759][263]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.43
+[2018.02.20-09.42.47:381][337]LogBlueprintUserMessages: [DestructibleBloc3] fail x)
+[2018.02.20-09.42.54:182][ 40]Cmd: TRANSACTION UNDO
+[2018.02.20-09.42.54:182][ 40]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-09.42.55:882][226]BlueprintLog: New page: Compile Projectile
+[2018.02.20-09.42.59:499][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.20-09.42.59:587][537]LogSavePackage: Save=24.05ms
+[2018.02.20-09.42.59:587][537]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/ProjectileDDC4135D4CB5742F8D8986BCA6B71ACC.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.20-09.42.59:591][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.20-09.43.03:745][912]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc3)
+[2018.02.20-09.44.30:220][889]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.44.31:034][890]LogSavePackage: Save=46.78ms
+[2018.02.20-09.44.31:034][890]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc7E8CF5EE464B40A5CCD8DDABB2813B1A.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.44.31:038][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.44.33:763][170]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.44.33:792][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.44.33:792][170]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:44:33 AM)
+[2018.02.20-09.44.33:792][170]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.44.33:793][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001432s)
+[2018.02.20-09.44.33:794][170]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.44.33:794][170]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.02.20-09.44.33:794][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002483s)
+[2018.02.20-09.44.33:813][170]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.44.33:820][170]LogInit: FAudioDevice initialized.
+[2018.02.20-09.44.33:848][170]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.44.33:849][170]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.44.33
+[2018.02.20-09.44.33:850][170]LogWorld: Bringing up level for play took: 0.000916
+[2018.02.20-09.44.33:851][170]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.478
+[2018.02.20-09.44.40:091][907]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.44.40:120][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.44.40:120][907]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:44:40 AM)
+[2018.02.20-09.44.40:120][907]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.44.40:121][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001413s)
+[2018.02.20-09.44.40:122][907]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.44.40:122][907]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.02.20-09.44.40:122][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002336s)
+[2018.02.20-09.44.40:139][907]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.44.40:145][907]LogInit: FAudioDevice initialized.
+[2018.02.20-09.44.40:174][907]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.44.40:175][907]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.44.40
+[2018.02.20-09.44.40:176][907]LogWorld: Bringing up level for play took: 0.000957
+[2018.02.20-09.44.40:177][907]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.152
+[2018.02.20-09.45.26:929][578]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.45.28:032][609]LogSavePackage: Save=43.23ms
+[2018.02.20-09.45.28:032][609]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBlocE950FD7A4B40B8E1E510B98E0261C4CC.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.45.28:036][609]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.45.33:807][258]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.45.33:836][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.45.33:836][258]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:45:33 AM)
+[2018.02.20-09.45.33:836][258]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.45.33:838][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2018.02.20-09.45.33:838][258]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.45.33:838][258]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.02.20-09.45.33:839][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002429s)
+[2018.02.20-09.45.33:857][258]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.45.33:864][258]LogInit: FAudioDevice initialized.
+[2018.02.20-09.45.33:895][258]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.45.33:897][258]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.45.33
+[2018.02.20-09.45.33:898][258]LogWorld: Bringing up level for play took: 0.001052
+[2018.02.20-09.45.33:899][258]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.43
+[2018.02.20-09.50.51:211][786]LogSavePackage: Save=27.78ms
+[2018.02.20-09.50.51:211][786]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleWallsTest_Auto2E6931355419DC9D750EDA9ABB01D562D.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto2.umap'
+[2018.02.20-09.50.51:213][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto2.umap
+[2018.02.20-09.50.51:217][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/testLevels/DestructibleWallsTest' took 0.132
+[2018.02.20-09.50.51:217][786]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2018.02.20-09.50.51:219][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Destructibles/DestructibleBloc] ([1] browsable assets)...
+[2018.02.20-09.50.51:219][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Destructibles/DestructibleBloc]
+[2018.02.20-09.50.51:338][786]LogSavePackage: Save=48.58ms
+[2018.02.20-09.50.51:338][786]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc_Auto22D7113B044C27E7E5CE646855C8EA299.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/DestructibleBloc_Auto2.uasset'
+[2018.02.20-09.50.51:340][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/DestructibleBloc_Auto2.uasset
+[2018.02.20-09.50.51:341][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Destructibles/leftDestructibleBloc] ([1] browsable assets)...
+[2018.02.20-09.50.51:341][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Destructibles/leftDestructibleBloc]
+[2018.02.20-09.50.51:423][786]LogSavePackage: Save=14.10ms
+[2018.02.20-09.50.51:423][786]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/leftDestructibleBloc_Auto2FFFFCFD74CA75BE80BF9DDA3D6F4D5BF.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto2.uasset'
+[2018.02.20-09.50.51:425][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto2.uasset
+[2018.02.20-09.50.51:425][786]LogFileHelpers: Auto-saving content packages took 0.207
+[2018.02.20-09.53.29:989][306]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.53.31:083][338]LogSavePackage: Save=45.63ms
+[2018.02.20-09.53.31:083][338]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc79255F30446F32A2FC20A7A8A598A3ED.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.53.31:090][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.54.08:072][318]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.54.09:279][362]LogSavePackage: Save=46.35ms
+[2018.02.20-09.54.09:279][362]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBlocDBDE0CD842FE7C74A9B570816025F81A.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.54.09:283][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.55.07:055][ 50]LogSavePackage: Save=46.96ms
+[2018.02.20-09.55.07:055][ 50]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBlocA08CD4A74694039079CD3AAE9E2410FC.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.55.07:057][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.55.10:463][414]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.55.10:492][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.55.10:492][414]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:55:10 AM)
+[2018.02.20-09.55.10:493][414]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.55.10:494][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001336s)
+[2018.02.20-09.55.10:494][414]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.55.10:495][414]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2018.02.20-09.55.10:495][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002428s)
+[2018.02.20-09.55.10:512][414]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.55.10:519][414]LogInit: FAudioDevice initialized.
+[2018.02.20-09.55.10:553][414]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.55.10:555][414]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.55.10
+[2018.02.20-09.55.10:555][414]LogWorld: Bringing up level for play took: 0.001201
+[2018.02.20-09.55.10:557][414]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.228
+[2018.02.20-09.55.16:387][105]Cmd: SELECT NONE
+[2018.02.20-09.55.17:798][274]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc3)
+[2018.02.20-09.55.21:043][638]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.55.21:073][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.55.21:073][638]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:55:21 AM)
+[2018.02.20-09.55.21:073][638]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.55.21:075][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001441s)
+[2018.02.20-09.55.21:075][638]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.55.21:075][638]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2018.02.20-09.55.21:076][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002378s)
+[2018.02.20-09.55.21:092][638]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.55.21:100][638]LogInit: FAudioDevice initialized.
+[2018.02.20-09.55.21:129][638]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.55.21:131][638]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.55.21
+[2018.02.20-09.55.21:131][638]LogWorld: Bringing up level for play took: 0.001321
+[2018.02.20-09.55.21:133][638]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.803
+[2018.02.20-09.55.53:954][564]LogEditorViewport: Clicking Background
+[2018.02.20-09.55.54:501][629]LogEditorViewport: Clicking Background
+[2018.02.20-09.55.55:205][713]LogEditorViewport: Clicking Background
+[2018.02.20-09.56.23:056][620]LogEditorViewport: Clicking on Actor (LMB): DestructibleBloc_C (DestructibleBloc3)
+[2018.02.20-09.58.48:212][715]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-09.58.49:484][752]LogSavePackage: Save=53.84ms
+[2018.02.20-09.58.49:484][752]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc03266ECF489DBDFF587C039C93A7C809.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.58.49:489][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.58.55:105][217]LogSavePackage: Save=52.48ms
+[2018.02.20-09.58.55:105][217]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc2BC049B348F89A617EE3CB8B5A58942D.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-09.58.55:107][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-09.58.57:981][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-09.58.58:010][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-09.58.58:011][496]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 11:58:58 AM)
+[2018.02.20-09.58.58:011][496]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-09.58.58:012][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2018.02.20-09.58.58:013][496]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-09.58.58:013][496]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.02.20-09.58.58:013][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002223s)
+[2018.02.20-09.58.58:031][496]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-09.58.58:038][496]LogInit: FAudioDevice initialized.
+[2018.02.20-09.58.58:071][496]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-09.58.58:073][496]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-10.58.58
+[2018.02.20-09.58.58:073][496]LogWorld: Bringing up level for play took: 0.001178
+[2018.02.20-09.58.58:075][496]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.255
+[2018.02.20-09.58.58:690][569]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill
+[2018.02.20-09.58.58:949][600]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_1 via property DamageDealer, but Projectile_C_1 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_1 via property DamageDealer, but Projectile_C_1 is pending kill
+[2018.02.20-09.58.59:107][619]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_2 via property DamageDealer, but Projectile_C_2 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_2 via property DamageDealer, but Projectile_C_2 is pending kill
+[2018.02.20-09.58.59:282][640]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_3 via property DamageDealer, but Projectile_C_3 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_3 via property DamageDealer, but Projectile_C_3 is pending kill
+[2018.02.20-09.58.59:440][659]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_4 via property DamageDealer, but Projectile_C_4 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_4 via property DamageDealer, but Projectile_C_4 is pending kill
+[2018.02.20-09.58.59:623][681]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_5 via property DamageDealer, but Projectile_C_5 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_5 via property DamageDealer, but Projectile_C_5 is pending kill
+[2018.02.20-09.58.59:798][702]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_6 via property DamageDealer, but Projectile_C_6 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_6 via property DamageDealer, but Projectile_C_6 is pending kill
+[2018.02.20-09.59.00:007][727]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_7 via property DamageDealer, but Projectile_C_7 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_7 via property DamageDealer, but Projectile_C_7 is pending kill
+[2018.02.20-09.59.00:257][757]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_8 via property DamageDealer, but Projectile_C_8 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_8 via property DamageDealer, but Projectile_C_8 is pending kill
+[2018.02.20-09.59.00:498][786]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_9 via property DamageDealer, but Projectile_C_9 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_9 via property DamageDealer, but Projectile_C_9 is pending kill
+[2018.02.20-09.59.00:873][831]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_10 via property DamageDealer, but Projectile_C_10 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_10 via property DamageDealer, but Projectile_C_10 is pending kill
+[2018.02.20-09.59.01:090][857]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_11 via property DamageDealer, but Projectile_C_11 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_11 via property DamageDealer, but Projectile_C_11 is pending kill
+[2018.02.20-09.59.01:215][872]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_12 via property DamageDealer, but Projectile_C_12 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_12 via property DamageDealer, but Projectile_C_12 is pending kill
+[2018.02.20-09.59.01:365][890]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_13 via property DamageDealer, but Projectile_C_13 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_13 via property DamageDealer, but Projectile_C_13 is pending kill
+[2018.02.20-09.59.01:573][915]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_14 via property DamageDealer, but Projectile_C_14 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_14 via property DamageDealer, but Projectile_C_14 is pending kill
+[2018.02.20-09.59.01:748][936]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_15 via property DamageDealer, but Projectile_C_15 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_15 via property DamageDealer, but Projectile_C_15 is pending kill
+[2018.02.20-09.59.01:940][959]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_16 via property DamageDealer, but Projectile_C_16 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_16 via property DamageDealer, but Projectile_C_16 is pending kill
+[2018.02.20-10.00.33:097][312]LogEditorTransaction: Undo Create Pin Link
+[2018.02.20-10.00.33:317][332]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.00.33:457][339]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.00.33:764][365]LogEditorTransaction: Undo Create Pin Link
+[2018.02.20-10.00.34:087][394]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.00.34:436][426]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.00.34:769][456]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.00.35:094][486]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.00.35:466][521]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.00.35:907][564]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.00.49:538][ 17]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-10.00.50:354][ 17]LogSavePackage: Save=49.46ms
+[2018.02.20-10.00.50:354][ 17]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc87A2A9154BD8531C3F5D0E8FFB06A116.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-10.00.50:358][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-10.00.50:824][ 52]LogSavePackage: Save=49.25ms
+[2018.02.20-10.00.50:824][ 52]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc32655A7A41B54B9B90888F8E58AB9190.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-10.00.50:827][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-10.00.58:248][658]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-10.00.58:285][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-10.00.58:285][658]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 12:00:58 PM)
+[2018.02.20-10.00.58:285][658]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-10.00.58:287][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001418s)
+[2018.02.20-10.00.58:287][658]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-10.00.58:287][658]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.02.20-10.00.58:288][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002272s)
+[2018.02.20-10.00.58:307][658]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-10.00.58:315][658]LogInit: FAudioDevice initialized.
+[2018.02.20-10.00.58:346][658]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-10.00.58:348][658]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-11.00.58
+[2018.02.20-10.00.58:348][658]LogWorld: Bringing up level for play took: 0.000978
+[2018.02.20-10.00.58:350][658]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest 0.02
+[2018.02.20-10.00.58:947][729]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill
+[2018.02.20-10.01.22:519][ 52]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.20-10.02.32:898][592]BlueprintLog: New page: Compile DestructibleBloc
+[2018.02.20-10.02.33:872][610]LogSavePackage: Save=26.65ms
+[2018.02.20-10.02.33:872][610]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleWallsTest_Auto332AA19054D43CD7B86E696AA8093AB84.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto3.umap'
+[2018.02.20-10.02.33:873][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/testLevels/DestructibleWallsTest_Auto3.umap
+[2018.02.20-10.02.33:876][610]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/testLevels/DestructibleWallsTest' took 0.115
+[2018.02.20-10.02.33:876][610]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.115
+[2018.02.20-10.02.33:878][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Destructibles/DestructibleBloc] ([1] browsable assets)...
+[2018.02.20-10.02.33:878][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Destructibles/DestructibleBloc]
+[2018.02.20-10.02.33:988][610]LogSavePackage: Save=48.68ms
+[2018.02.20-10.02.33:988][610]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc_Auto3C847140541C9638FF40C5A92785F1665.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/DestructibleBloc_Auto3.uasset'
+[2018.02.20-10.02.33:990][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/DestructibleBloc_Auto3.uasset
+[2018.02.20-10.02.33:991][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Destructibles/leftDestructibleBloc] ([1] browsable assets)...
+[2018.02.20-10.02.33:991][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Destructibles/leftDestructibleBloc]
+[2018.02.20-10.02.34:071][610]LogSavePackage: Save=12.80ms
+[2018.02.20-10.02.34:071][610]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/leftDestructibleBloc_Auto3F4ADBF21415981074EA10DB94CD10594.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto3.uasset'
+[2018.02.20-10.02.34:073][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Autosaves/Game/Blueprint/Destructibles/leftDestructibleBloc_Auto3.uasset
+[2018.02.20-10.02.34:073][610]LogFileHelpers: Auto-saving content packages took 0.196
+[2018.02.20-10.02.34:811][672]LogSavePackage: Save=49.08ms
+[2018.02.20-10.02.34:811][672]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBlocDCC9D6114D95A72C5DE6278773E849AA.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-10.02.34:818][672]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-10.03.10:364][422]LogRenderer: Reallocating scene render targets to support 652x668 Format 10 NumSamples 1 (Frame:1).
+[2018.02.20-10.03.13:512][733]LogSavePackage: Save=48.76ms
+[2018.02.20-10.03.13:512][733]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/DestructibleBloc91E78B5742A4B04A2F2BD0BC347BDDFD.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset'
+[2018.02.20-10.03.13:514][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Destructibles/DestructibleBloc.uasset
+[2018.02.20-10.03.38:004][352]BlueprintLog: New page: Compile Projectile
+[2018.02.20-10.03.38:597][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.20-10.03.38:693][368]LogSavePackage: Save=27.14ms
+[2018.02.20-10.03.38:693][368]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/ProjectileF7C60A1B41315FB81DB70D940E6705C2.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.20-10.03.38:697][368]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.20-10.03.41:368][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-10.03.41:398][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-10.03.41:398][665]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 12:03:41 PM)
+[2018.02.20-10.03.41:398][665]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-10.03.41:400][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001625s)
+[2018.02.20-10.03.41:400][665]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-10.03.41:401][665]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2018.02.20-10.03.41:401][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002642s)
+[2018.02.20-10.03.41:419][665]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-10.03.41:426][665]LogInit: FAudioDevice initialized.
+[2018.02.20-10.03.41:456][665]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-10.03.41:457][665]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-11.03.41
+[2018.02.20-10.03.41:457][665]LogWorld: Bringing up level for play took: 0.000991
+[2018.02.20-10.03.41:459][665]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.871
+[2018.02.20-10.03.42:023][732]LogBlueprintUserMessages: [Projectile_C_0] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.43:164][869]LogBlueprintUserMessages: [Projectile_C_1] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.43:165][869]LogBlueprintUserMessages: [Projectile_C_0] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.44:198][993]LogBlueprintUserMessages: [Projectile_C_2] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.44:814][ 67]LogBlueprintUserMessages: [Projectile_C_3] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.44:814][ 67]LogBlueprintUserMessages: [Projectile_C_2] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.45:781][183]LogBlueprintUserMessages: [Projectile_C_4] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.03.46:615][283]LogBlueprintUserMessages: [Projectile_C_5] X=0.000 Y=0.000 Z=0.000
+[2018.02.20-10.04.23:652][416]BlueprintLog: New page: Compile Projectile
+[2018.02.20-10.04.24:334][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.20-10.04.24:424][443]LogSavePackage: Save=26.85ms
+[2018.02.20-10.04.24:424][443]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Projectile2066DDFE49AA452CBC5F9CB2EF694DA6.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.20-10.04.24:428][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.20-10.04.28:127][855]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.20-10.04.28:157][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-10.04.28:157][855]PIE: New page: PIE session: DestructibleWallsTest (Feb 20, 2018, 12:04:28 PM)
+[2018.02.20-10.04.28:157][855]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_DestructibleWallsTest
+[2018.02.20-10.04.28:158][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001399s)
+[2018.02.20-10.04.28:159][855]LogAIModule: Creating AISystem for world DestructibleWallsTest
+[2018.02.20-10.04.28:159][855]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2018.02.20-10.04.28:159][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/DestructibleWallsTest.DestructibleWallsTest to /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest (0.002562s)
+[2018.02.20-10.04.28:177][855]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.20-10.04.28:184][855]LogInit: FAudioDevice initialized.
+[2018.02.20-10.04.28:212][855]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.20-10.04.28:214][855]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_DestructibleWallsTest.DestructibleWallsTest up for play (max tick rate 0) at 2018.02.20-11.04.28
+[2018.02.20-10.04.28:214][855]LogWorld: Bringing up level for play took: 0.000958
+[2018.02.20-10.04.28:216][855]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_DestructibleWallsTest -0.113
+[2018.02.20-10.04.28:723][915]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_0 via property DamageDealer, but Projectile_C_0 is pending kill
+[2018.02.20-10.04.29:255][979]PIE: Error: Blueprint Runtime Error: Attempted to access Projectile_C_1 via property DamageDealer, but Projectile_C_1 is pending kill from function: 'ExecuteUbergraph_DestructibleBloc' from node: Apply Damage in graph: EventGraph in object: DestructibleBloc with description: Attempted to access Projectile_C_1 via property DamageDealer, but Projectile_C_1 is pending kill
+[2018.02.20-10.05.07:089][966]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.07:254][979]LogEditorTransaction: Undo Move Nodes
+[2018.02.20-10.05.07:398][988]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.07:530][996]LogEditorTransaction: Undo Move Nodes
+[2018.02.20-10.05.07:666][  7]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.07:922][ 32]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.05.08:181][ 58]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.08:424][ 82]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.08:836][126]LogEditorTransaction: Undo Create Pin Link
+[2018.02.20-10.05.09:090][151]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.05.09:457][190]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.10:083][260]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.05.10:451][300]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.05.11:736][447]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.05.12:024][477]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.12:438][521]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.12:898][571]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.13:334][618]LogEditorTransaction: Undo Move Node
+[2018.02.20-10.05.13:682][655]LogEditorTransaction: Undo Create Pin Link
+[2018.02.20-10.05.13:954][683]LogEditorTransaction: Undo Add Node
+[2018.02.20-10.05.14:307][721]LogEditorTransaction: Undo Delete current selection
+[2018.02.20-10.05.15:325][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.20-10.05.15:412][836]LogSavePackage: Save=24.83ms
+[2018.02.20-10.05.15:413][836]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Projectile332F10FA43CB6A11CC5AD1B088CFF585.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.20-10.05.15:416][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.20-10.05.16:749][989]BlueprintLog: New page: Compile Projectile
+[2018.02.20-10.05.58:268][207]LogUObjectBase: Warning: Object is not registered
+[2018.02.20-10.05.58:728][207]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.459 s
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: 
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: Stack: 
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000EA302786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000EA0A123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000EA0BB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E50B33F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E11303AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E0423EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E02B74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E02BABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000E03E8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F0847397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F084CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F0A89913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F08A3484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F087B68C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000F086D6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000117DE39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000117D1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000117E03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000117CD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x0000000026CDB85D USER32.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x0000000026CDB1EF USER32.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x00000000117E1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x000000008D9C50C8 UE4Editor.exe!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x000000008D9D5430 UE4Editor.exe!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x000000008D9D54AA UE4Editor.exe!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x000000008D9E2379 UE4Editor.exe!UnknownFunction []
+[2018.02.20-10.05.58:728][207]LogOutputDevice: Error: [Callstack] 0x000000008D9E3D57 UE4Editor.exe!UnknownFunction []
+[2018.02.20-10.05.58:729][207]LogOutputDevice: Error: [Callstack] 0x00000000265F1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.20-10.05.58:729][207]LogOutputDevice: Error: [Callstack] 0x000000002891EFC1 ntdll.dll!UnknownFunction []
+[2018.02.20-10.05.58:729][207]LogOutputDevice: Error: 
+[2018.02.20-10.05.58:731][207]LogStats:                SubmitErrorReport -  0.000 s
