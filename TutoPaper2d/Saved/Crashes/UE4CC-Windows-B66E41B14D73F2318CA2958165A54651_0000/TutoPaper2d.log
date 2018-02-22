@@ -1,0 +1,1158 @@
+﻿Log file open, 02/19/18 11:21:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TutoPaper2d
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(748165325) SRandInit(748165325).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170989
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.19-10.21.26:711][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.19-10.21.26:711][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.19-10.21.26:725][  0]LogInit: Computer: PC-B-4-320
+[2018.02.19-10.21.26:725][  0]LogInit: User: stagiaire
+[2018.02.19-10.21.26:725][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.19-10.21.26:725][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2018.02.19-10.21.26:725][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.02.19-10.21.26:725][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.19-10.21.26:725][  0]LogMemory: Process Physical Memory: 276.41 MB used, 276.41 MB peak
+[2018.02.19-10.21.26:725][  0]LogMemory: Process Virtual Memory: 276.88 MB used, 276.88 MB peak
+[2018.02.19-10.21.26:725][  0]LogMemory: Physical Memory: 10294.39 MB used,  22395.38 MB free, 32689.77 MB total
+[2018.02.19-10.21.26:725][  0]LogMemory: Virtual Memory: 685.14 MB used,  22395.38 MB free, 134217728.00 MB total
+[2018.02.19-10.21.26:897][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.19-10.21.26:897][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.19-10.21.26:899][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.19-10.21.26:900][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.19-10.21.27:261][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.19-10.21.27:471][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.19-10.21.27:492][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K620' (Feature Level 11_0)
+[2018.02.19-10.21.27:492][  0]LogD3D11RHI:       2017/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.19-10.21.27:494][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.19-10.21.27:494][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.19-10.21.27:494][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.19-10.21.27:498][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.19-10.21.27:498][  0]LogD3D11RHI:     GPU DeviceId: 0x13bb (for the marketing name, search the web for "GPU Device Id")
+[2018.02.19-10.21.27:498][  0]LogWindows: EnumDisplayDevices:
+[2018.02.19-10.21.27:498][  0]LogWindows:    0. 'NVIDIA Quadro K620' (P:1 D:1)
+[2018.02.19-10.21.27:499][  0]LogWindows:    1. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.19-10.21.27:499][  0]LogWindows:    2. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.19-10.21.27:499][  0]LogWindows:    3. 'NVIDIA Quadro K620' (P:0 D:0)
+[2018.02.19-10.21.27:499][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.19-10.21.27:499][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K620
+[2018.02.19-10.21.27:499][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.19-10.21.27:499][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.19-10.21.27:499][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2018.02.19-10.21.27:513][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.19-10.21.27:525][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.19-10.21.27:568][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Intermediate/Shaders/WorkingDirectory/3184/).
+[2018.02.19-10.21.27:568][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/stagiaire/AppData/Local/Temp/UnrealShaderWorkingDir/22552FB344BBB71308074FB0B87525C3/'.
+[2018.02.19-10.21.27:568][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.19-10.21.28:376][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.19-10.21.28:422][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.19-10.21.28:469][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.19-10.21.28:516][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.19-10.21.28:563][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.19-10.21.28:613][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.19-10.21.28:660][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.19-10.21.28:707][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.19-10.21.28:748][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.19-10.21.28:794][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.19-10.21.28:840][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.19-10.21.28:887][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.19-10.21.28:933][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.19-10.21.28:979][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.19-10.21.29:071][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.19-10.21.29:071][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.19-10.21.29:119][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.19-10.21.29:155][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.19-10.21.29:240][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.19-10.21.29:265][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.19-10.21.29:310][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.19-10.21.29:357][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.19-10.21.29:403][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.19-10.21.29:449][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.19-10.21.29:449][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.19-10.21.29:867][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.19-10.21.29:934][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.19-10.21.29:948][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.19-10.21.29:960][  0]LogDerivedDataCache: Using Local data cache path C:/Users/stagiaire/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.19-10.21.29:968][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.19-10.21.29:969][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.19-10.21.29:969][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.19-10.21.29:969][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.19-10.21.30:276][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.19-10.21.30:521][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.19-10.21.30:559][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.19-10.21.30:559][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.19-10.21.30:559][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.19-10.21.30:559][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.19-10.21.30:559][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.19-10.21.30:649][  0]LogNetVersion: TutoPaper2d , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3459915010)
+[2018.02.19-10.21.30:819][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.19-10.21.31:280][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.040420 seconds
+[2018.02.19-10.21.31:287][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.19-10.21.31:287][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.19-10.21.31:287][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.19-10.21.31:338][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.19-10.21.33:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.19-10.21.34:023][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.19-10.21.34:629][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.19-10.21.35:016][  0]SourceControl: Source control is disabled
+[2018.02.19-10.21.35:016][  0]SourceControl: Source control is disabled
+[2018.02.19-10.21.35:062][  0]SourceControl: Source control is disabled
+[2018.02.19-10.21.35:108][  0]SourceControl: Source control is disabled
+[2018.02.19-10.21.35:814][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.19-10.21.36:047][  0]LogOcInput: OculusInput pre-init called
+[2018.02.19-10.21.36:302][  0]LogEngine: Initializing Engine...
+[2018.02.19-10.21.36:305][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.19-10.21.36:507][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.19-10.21.36:507][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.19-10.21.36:630][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.19-10.21.36:637][  0]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.21.36:654][  0]LogInit: FAudioDevice initialized.
+[2018.02.19-10.21.36:778][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/stagiaire/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.19-10.21.36:792][  0]LogInit: Texture streaming: Enabled
+[2018.02.19-10.21.36:881][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.19-10.21.36:999][  0]LogInit: Transaction tracking system initialized
+[2018.02.19-10.21.37:287][  0]BlueprintLog: New page: Editor Load
+[2018.02.19-10.21.38:096][  0]LocalizationService: Localization service is disabled
+[2018.02.19-10.21.38:764][  0]LogConsoleResponse: Display: 
+[2018.02.19-10.21.38:935][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.19-10.21.38:935][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.19-10.21.38:935][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.19-10.21.39:220][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/' took 0.01s
+[2018.02.19-10.21.39:994][  0]SourceControl: Source control is disabled
+[2018.02.19-10.21.39:995][  0]Cmd: MAP LOAD FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.19-10.21.39:995][  0]LightingResults: New page: Lighting Build
+[2018.02.19-10.21.40:033][  0]MapCheck: New page: Map Check
+[2018.02.19-10.21.40:034][  0]LightingResults: New page: Lighting Build
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:044][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:044][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:044][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:044][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:044][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:245][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:245][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:245][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:281][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:281][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:281][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:281][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:281][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:281][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:282][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:282][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:282][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:283][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:283][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:283][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:290][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:290][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/2dlevel.umap.
+[2018.02.19-10.21.40:290][  0]LoadErrors: Error: /Game/2dlevel : Can't find file for asset. /Game/Blueprint/Ennemy
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:291][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:292][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:292][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:293][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:294][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:294][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:294][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:294][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:303][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:303][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:303][  0]LogLinker: Warning: Can't find file '/Game/Blueprint/Ennemy'
+[2018.02.19-10.21.40:303][  0]LoadErrors: Failed to load /Game/Blueprint/Ennemy.Ennemy_C Referenced by PersistentLevel
+[2018.02.19-10.21.40:304][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprint/Ennemy' while loading NULL.
+[2018.02.19-10.21.40:304][  0]LoadErrors: Failed to load /Game/Blueprint/Ennemy.Ennemy_C Referenced by PersistentLevel
+[2018.02.19-10.21.40:416][  0]LogAIModule: Creating AISystem for world 2dlevel
+[2018.02.19-10.21.40:425][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.19-10.21.40:434][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.19-10.21.40:481][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.231ms to complete.
+[2018.02.19-10.21.40:482][  0]LogFileHelpers: Loading map '2dlevel' took 0.487
+[2018.02.19-10.21.40:618][  0]LogCollectionManager: Loaded 0 collections in 0.001422 seconds
+[2018.02.19-10.21.40:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Collections/' took 0.01s
+[2018.02.19-10.21.40:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Developers/stagiaire/Collections/' took 0.01s
+[2018.02.19-10.21.40:694][  0]LogFileCache: Scanning file cache for directory 'C:/Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Collections/' took 0.01s
+[2018.02.19-10.21.40:694][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.19-10.21.40:702][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2363 classes and 519 folders.
+[2018.02.19-10.21.40:762][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.19-10.21.40:790][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.19-10.21.40:831][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.19-10.21.40:847][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.19-10.21.40:849][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.19-10.21.40:854][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.19-10.21.40:923][  0]LogRenderer: Reallocating scene render targets to support 772x540 Format 10 NumSamples 1 (Frame:1).
+[2018.02.19-10.21.40:953][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-10.21.41:064][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.19-10.21.41:064][  0]LogLoad: (Engine Initialization) Total time: 16.44 seconds
+[2018.02.19-10.21.41:064][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.19-10.21.41:065][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.19-10.21.41:074][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AIPerception': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AISenseConfig_Sight_0': AIPerceptionComponent /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210.AIPerception
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'projectileSpawner': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:075][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Sprite0': Ennemy_C /Game/2dlevel.2dlevel:PersistentLevel.Ennemy_210
+[2018.02.19-10.21.41:092][  0]LogAssetRegistry: Asset discovery search completed in 10.2958 seconds
+[2018.02.19-10.21.41:094][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.19-10.21.41:094][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.02.19-10.21.41:096][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.19-10.22.12:976][793]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-10.22.15:348][793]LogSavePackage: Save=8.00ms
+[2018.02.19-10.22.15:348][793]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/CollisionSystemTestCA12DC1C48B83B8EA99502B14889AB30.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap'
+[2018.02.19-10.22.15:351][793]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap
+[2018.02.19-10.22.15:351][793]LogFileHelpers: Saving map 'CollisionSystemTest' took 0.070
+[2018.02.19-10.22.15:354][793]Cmd: MAP LOAD FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.19-10.22.15:354][793]LightingResults: New page: Lighting Build
+[2018.02.19-10.22.15:355][793]LoadErrors: New page: Loading map: CollisionSystemTest.umap
+[2018.02.19-10.22.15:356][793]MapCheck: New page: Map Check
+[2018.02.19-10.22.15:356][793]LightingResults: New page: Lighting Build
+[2018.02.19-10.22.15:365][793]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.19-10.22.15:366][793]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.22.15:376][793]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.19-10.22.15:429][793]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.19-10.22.15:480][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.174ms to complete.
+[2018.02.19-10.22.15:481][793]LogFileHelpers: Loading map 'CollisionSystemTest' took 0.128
+[2018.02.19-10.24.12:082][754]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.19-10.24.17:206][290]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.19-10.24.40:548][983]LogTexture: Display: Building textures: RockTileV2EndTopRightPlatform (AutoDXT, 32X32)
+[2018.02.19-10.25.06:261][862]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.19-10.27.09:597][272]LogSavePackage: Save=7.19ms
+[2018.02.19-10.27.09:597][272]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingTileset9D9B9DCE45E2E5145E4E9DBEAAF37936.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset'
+[2018.02.19-10.27.09:602][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset
+[2018.02.19-10.27.48:536][627]LogSavePackage: Save=7.37ms
+[2018.02.19-10.27.48:536][627]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingPlatformTileset3645A69F4DC980FB757D6491C0865A2F.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformTileset.uasset'
+[2018.02.19-10.27.48:540][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformTileset.uasset
+[2018.02.19-10.29.42:010][336]LogSavePackage: Save=8.30ms
+[2018.02.19-10.29.42:010][336]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingTileset506AC0614767F17B36ABA8AE572DDA53.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset'
+[2018.02.19-10.29.42:013][336]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset
+[2018.02.19-10.29.59:017][314]LogRenderer: Reallocating scene render targets to support 776x868 Format 10 NumSamples 1 (Frame:1).
+[2018.02.19-10.35.05:839][846]Cmd: TRANSACTION UNDO
+[2018.02.19-10.35.05:839][846]LogEditorTransaction: Undo Tile Paint Bucket
+[2018.02.19-10.35.09:157][169]Cmd: TRANSACTION UNDO
+[2018.02.19-10.35.09:157][169]LogEditorTransaction: Undo Tile Paint Bucket
+[2018.02.19-10.35.39:248][304]LogSavePackage: Save=138.50ms
+[2018.02.19-10.35.39:248][304]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingPlatformerTilemap91F9A8064732F3BA68F90F9CBB94FC31.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset'
+[2018.02.19-10.35.39:251][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset
+[2018.02.19-10.35.57:148][395]LogEditorViewport: Clicking Background
+[2018.02.19-10.35.58:877][600]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.35.59:686][692]LogEditorViewport: Clicking Background
+[2018.02.19-10.36.06:383][483]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.19-10.36.09:866][900]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.36.09:964][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.36.09:964][900]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:36:09 PM)
+[2018.02.19-10.36.09:964][900]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.36.09:965][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000700s)
+[2018.02.19-10.36.09:965][900]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.36.09:965][900]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.02.19-10.36.09:966][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001498s)
+[2018.02.19-10.36.09:980][900]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.36.09:987][900]LogInit: FAudioDevice initialized.
+[2018.02.19-10.36.10:028][900]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.36.10:031][900]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.36.10
+[2018.02.19-10.36.10:032][900]LogWorld: Bringing up level for play took: 0.002009
+[2018.02.19-10.36.10:072][900]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.02.19-10.36.10:073][900]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.256
+[2018.02.19-10.36.19:251][993]LogEditorViewport: Clicking Background
+[2018.02.19-10.36.19:965][ 78]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.36.21:535][261]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.36.25:209][694]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.36.26:171][805]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.36.27:299][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.36.27:327][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.36.27:327][933]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:36:27 PM)
+[2018.02.19-10.36.27:327][933]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.36.27:328][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001016s)
+[2018.02.19-10.36.27:329][933]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.36.27:329][933]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.02.19-10.36.27:329][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001929s)
+[2018.02.19-10.36.27:340][933]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.36.27:346][933]LogInit: FAudioDevice initialized.
+[2018.02.19-10.36.27:379][933]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.36.27:382][933]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.36.27
+[2018.02.19-10.36.27:383][933]LogWorld: Bringing up level for play took: 0.002087
+[2018.02.19-10.36.27:384][933]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 1.055
+[2018.02.19-10.36.29:721][206]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.36.31:699][434]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.36.31:726][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.36.31:726][434]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:36:31 PM)
+[2018.02.19-10.36.31:726][434]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.36.31:727][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000813s)
+[2018.02.19-10.36.31:728][434]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.36.31:728][434]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.02.19-10.36.31:728][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001713s)
+[2018.02.19-10.36.31:739][434]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.36.31:745][434]LogInit: FAudioDevice initialized.
+[2018.02.19-10.36.31:774][434]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.36.31:776][434]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.36.31
+[2018.02.19-10.36.31:777][434]LogWorld: Bringing up level for play took: 0.001863
+[2018.02.19-10.36.31:778][434]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.551
+[2018.02.19-10.36.35:493][873]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.36.35:521][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.36.35:521][873]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:36:35 PM)
+[2018.02.19-10.36.35:521][873]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.36.35:522][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000904s)
+[2018.02.19-10.36.35:523][873]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.36.35:523][873]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.02.19-10.36.35:523][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001803s)
+[2018.02.19-10.36.35:534][873]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.36.35:540][873]LogInit: FAudioDevice initialized.
+[2018.02.19-10.36.35:573][873]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.36.35:576][873]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.36.35
+[2018.02.19-10.36.35:577][873]LogWorld: Bringing up level for play took: 0.002194
+[2018.02.19-10.36.35:578][873]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.751
+[2018.02.19-10.36.45:441][ 49]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.36.48:968][461]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.36.48:995][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.36.48:995][461]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:36:48 PM)
+[2018.02.19-10.36.48:995][461]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.36.48:996][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001035s)
+[2018.02.19-10.36.48:997][461]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.36.48:997][461]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.02.19-10.36.48:997][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001867s)
+[2018.02.19-10.36.49:008][461]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.36.49:015][461]LogInit: FAudioDevice initialized.
+[2018.02.19-10.36.49:048][461]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.36.49:050][461]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.36.49
+[2018.02.19-10.36.49:051][461]LogWorld: Bringing up level for play took: 0.001907
+[2018.02.19-10.36.49:052][461]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.723
+[2018.02.19-10.37.02:713][ 90]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.37.04:830][338]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.37.04:876][341]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.02.19-10.37.40:523][984]LogSavePackage: Save=178.47ms
+[2018.02.19-10.37.40:523][984]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingPlatformerTilemapDD21821641FBD3A9D0C3D8B3378727F9.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset'
+[2018.02.19-10.37.40:526][984]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset
+[2018.02.19-10.37.42:163][161]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.37.42:190][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.37.42:191][161]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:37:42 PM)
+[2018.02.19-10.37.42:191][161]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.37.42:191][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000816s)
+[2018.02.19-10.37.42:192][161]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.37.42:192][161]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.02.19-10.37.42:192][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001788s)
+[2018.02.19-10.37.42:205][161]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.37.42:212][161]LogInit: FAudioDevice initialized.
+[2018.02.19-10.37.42:248][161]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.37.42:251][161]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.37.42
+[2018.02.19-10.37.42:251][161]LogWorld: Bringing up level for play took: 0.001876
+[2018.02.19-10.37.42:253][161]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.076
+[2018.02.19-10.37.50:153][102]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.37.50:181][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.37.50:181][102]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:37:50 PM)
+[2018.02.19-10.37.50:181][102]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.37.50:182][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000877s)
+[2018.02.19-10.37.50:183][102]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.37.50:183][102]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.02.19-10.37.50:183][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001860s)
+[2018.02.19-10.37.50:194][102]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.37.50:200][102]LogInit: FAudioDevice initialized.
+[2018.02.19-10.37.50:232][102]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.37.50:234][102]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.37.50
+[2018.02.19-10.37.50:235][102]LogWorld: Bringing up level for play took: 0.001898
+[2018.02.19-10.37.50:236][102]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.093
+[2018.02.19-10.37.54:596][618]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.37.54:622][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.37.54:622][618]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:37:54 PM)
+[2018.02.19-10.37.54:622][618]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.37.54:623][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000823s)
+[2018.02.19-10.37.54:624][618]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.37.54:624][618]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.02.19-10.37.54:624][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001637s)
+[2018.02.19-10.37.54:634][618]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.37.54:641][618]LogInit: FAudioDevice initialized.
+[2018.02.19-10.37.54:670][618]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.37.54:673][618]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.37.54
+[2018.02.19-10.37.54:674][618]LogWorld: Bringing up level for play took: 0.001888
+[2018.02.19-10.37.54:675][618]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.346
+[2018.02.19-10.38.05:667][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.05:694][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.05:694][930]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:05 PM)
+[2018.02.19-10.38.05:694][930]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.05:695][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000808s)
+[2018.02.19-10.38.05:696][930]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.05:696][930]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.02.19-10.38.05:696][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001699s)
+[2018.02.19-10.38.05:706][930]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.05:712][930]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.05:743][930]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.05:746][930]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.05
+[2018.02.19-10.38.05:746][930]LogWorld: Bringing up level for play took: 0.001912
+[2018.02.19-10.38.05:748][930]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.582
+[2018.02.19-10.38.09:651][391]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.38.10:351][470]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.38.11:093][557]LogEditorViewport: Clicking Background
+[2018.02.19-10.38.12:643][729]LogSavePackage: Save=13.65ms
+[2018.02.19-10.38.12:643][729]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/CollisionSystemTestA8A71415466B6D36BCEEAEA945DCFFAF.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap'
+[2018.02.19-10.38.12:647][729]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap
+[2018.02.19-10.38.13:333][804]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.13:361][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.13:361][804]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:13 PM)
+[2018.02.19-10.38.13:361][804]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.13:362][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000896s)
+[2018.02.19-10.38.13:363][804]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.13:363][804]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.02.19-10.38.13:363][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001834s)
+[2018.02.19-10.38.13:373][804]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.13:380][804]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.13:414][804]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.13:416][804]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.13
+[2018.02.19-10.38.13:417][804]LogWorld: Bringing up level for play took: 0.002001
+[2018.02.19-10.38.13:418][804]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=405.960 Y=0.000 Z=237.539] for [HeroCharacter_C]
+[2018.02.19-10.38.13:419][804]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 382.229492 0.000000 237.538742
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.13:419][804]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.91
+[2018.02.19-10.38.15:410][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.15:439][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.15:439][ 36]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:15 PM)
+[2018.02.19-10.38.15:439][ 36]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.15:440][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000857s)
+[2018.02.19-10.38.15:440][ 36]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.15:441][ 36]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.02.19-10.38.15:441][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001793s)
+[2018.02.19-10.38.15:452][ 36]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.15:459][ 36]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.15:494][ 36]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.15:497][ 36]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.15
+[2018.02.19-10.38.15:498][ 36]LogWorld: Bringing up level for play took: 0.001921
+[2018.02.19-10.38.15:499][ 36]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=405.960 Y=0.000 Z=237.539] for [HeroCharacter_C]
+[2018.02.19-10.38.15:499][ 36]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 382.229492 0.000000 237.538742
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.15:499][ 36]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.83
+[2018.02.19-10.38.18:067][337]LogEditorViewport: Clicking Background
+[2018.02.19-10.38.19:297][483]LogEditorViewport: Clicking Background
+[2018.02.19-10.38.19:745][536]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.38.20:545][627]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.20:572][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.20:573][627]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:20 PM)
+[2018.02.19-10.38.20:573][627]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.20:573][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000807s)
+[2018.02.19-10.38.20:574][627]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.20:574][627]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.02.19-10.38.20:574][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001583s)
+[2018.02.19-10.38.20:585][627]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.20:591][627]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.20:623][627]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.20:626][627]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.20
+[2018.02.19-10.38.20:627][627]LogWorld: Bringing up level for play took: 0.001938
+[2018.02.19-10.38.20:628][627]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-522.041 Y=0.000 Z=145.416] for [HeroCharacter_C]
+[2018.02.19-10.38.20:628][627]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -549.241699 0.000000 170.191986
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.20:628][627]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.299
+[2018.02.19-10.38.22:387][831]LogEditorViewport: Clicking Background
+[2018.02.19-10.38.22:819][882]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.38.23:543][961]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.23:570][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.23:570][961]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:23 PM)
+[2018.02.19-10.38.23:570][961]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.23:571][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000914s)
+[2018.02.19-10.38.23:572][961]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.23:572][961]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.02.19-10.38.23:572][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001835s)
+[2018.02.19-10.38.23:584][961]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.23:590][961]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.23:620][961]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.23:622][961]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.23
+[2018.02.19-10.38.23:623][961]LogWorld: Bringing up level for play took: 0.001689
+[2018.02.19-10.38.23:624][961]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-522.041 Y=0.000 Z=145.416] for [HeroCharacter_C]
+[2018.02.19-10.38.23:624][961]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -549.241699 0.000000 170.191986
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.23:624][961]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.705
+[2018.02.19-10.38.25:054][126]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.38.27:343][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.27:370][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.27:370][389]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:27 PM)
+[2018.02.19-10.38.27:370][389]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.27:371][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000905s)
+[2018.02.19-10.38.27:372][389]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.27:372][389]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.02.19-10.38.27:372][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001869s)
+[2018.02.19-10.38.27:383][389]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.27:390][389]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.27:426][389]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.27:429][389]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.27
+[2018.02.19-10.38.27:429][389]LogWorld: Bringing up level for play took: 0.002020
+[2018.02.19-10.38.27:430][389]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-522.041 Y=0.000 Z=145.416] for [HeroCharacter_C]
+[2018.02.19-10.38.27:431][389]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -549.241699 0.000000 170.191986
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.27:431][389]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.898
+[2018.02.19-10.38.29:009][571]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.38.29:036][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.38.29:036][571]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:38:29 PM)
+[2018.02.19-10.38.29:036][571]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.38.29:037][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2018.02.19-10.38.29:038][571]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.38.29:038][571]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.02.19-10.38.29:038][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001869s)
+[2018.02.19-10.38.29:049][571]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.38.29:055][571]LogInit: FAudioDevice initialized.
+[2018.02.19-10.38.29:090][571]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.38.29:093][571]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.38.29
+[2018.02.19-10.38.29:093][571]LogWorld: Bringing up level for play took: 0.001965
+[2018.02.19-10.38.29:094][571]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-522.041 Y=0.000 Z=145.416] for [HeroCharacter_C]
+[2018.02.19-10.38.29:095][571]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -549.241699 0.000000 170.191986
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.38.29:095][571]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.766
+[2018.02.19-10.38.45:144][429]LogEditorViewport: Clicking Background
+[2018.02.19-10.38.47:176][670]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.39.04:299][708]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.39.05:395][834]LogEditorViewport: Clicking Background
+[2018.02.19-10.39.06:336][945]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.39.10:180][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.39.10:207][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.39.10:208][395]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:39:10 PM)
+[2018.02.19-10.39.10:208][395]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.39.10:209][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001050s)
+[2018.02.19-10.39.10:209][395]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.39.10:210][395]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2018.02.19-10.39.10:210][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001925s)
+[2018.02.19-10.39.10:220][395]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.39.10:226][395]LogInit: FAudioDevice initialized.
+[2018.02.19-10.39.10:254][395]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.39.10:257][395]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.39.10
+[2018.02.19-10.39.10:258][395]LogWorld: Bringing up level for play took: 0.001655
+[2018.02.19-10.39.10:259][395]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.07
+[2018.02.19-10.44.16:530][113]LogSavePackage: Save=837.68ms
+[2018.02.19-10.44.16:530][113]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingPlatformerTilemap81BDBDDC477F5AF5C61C7583AF4D12E0.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset'
+[2018.02.19-10.44.16:535][113]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformerTilemap.uasset
+[2018.02.19-10.44.40:022][324]LogSavePackage: Save=7.63ms
+[2018.02.19-10.44.40:022][324]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingPlatformTilesetF55718E44D1F971C2CD4539382B91640.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformTileset.uasset'
+[2018.02.19-10.44.40:026][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingPlatformTileset.uasset
+[2018.02.19-10.44.44:636][840]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.44.44:674][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.44.44:675][840]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:44:44 PM)
+[2018.02.19-10.44.44:675][840]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.44.44:675][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000721s)
+[2018.02.19-10.44.44:676][840]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.44.44:676][840]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.02.19-10.44.44:676][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001506s)
+[2018.02.19-10.44.44:697][840]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.44.44:703][840]LogInit: FAudioDevice initialized.
+[2018.02.19-10.44.44:733][840]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.44.44:735][840]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.44.44
+[2018.02.19-10.44.44:736][840]LogWorld: Bringing up level for play took: 0.001795
+[2018.02.19-10.44.44:737][840]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-586.040 Y=0.000 Z=251.294] for [HeroCharacter_C]
+[2018.02.19-10.44.44:737][840]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: -615.074341 0.000000 251.294495
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.44.44:738][840]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.409
+[2018.02.19-10.44.47:471][160]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.44.49:516][396]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.44.49:544][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.44.49:544][396]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:44:49 PM)
+[2018.02.19-10.44.49:544][396]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.44.49:545][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000804s)
+[2018.02.19-10.44.49:545][396]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.44.49:545][396]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.02.19-10.44.49:546][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001763s)
+[2018.02.19-10.44.49:557][396]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.44.49:563][396]LogInit: FAudioDevice initialized.
+[2018.02.19-10.44.49:597][396]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.44.49:600][396]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.44.49
+[2018.02.19-10.44.49:600][396]LogWorld: Bringing up level for play took: 0.002065
+[2018.02.19-10.44.49:601][396]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.728
+[2018.02.19-10.45.10:885][938]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.10:912][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.10:912][938]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:10 PM)
+[2018.02.19-10.45.10:912][938]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.10:913][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000852s)
+[2018.02.19-10.45.10:913][938]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.10:914][938]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2018.02.19-10.45.10:914][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001774s)
+[2018.02.19-10.45.10:925][938]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.10:932][938]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.10:961][938]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.10:964][938]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.10
+[2018.02.19-10.45.10:964][938]LogWorld: Bringing up level for play took: 0.001830
+[2018.02.19-10.45.10:965][938]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.636
+[2018.02.19-10.45.14:349][336]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.14:376][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.14:377][336]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:14 PM)
+[2018.02.19-10.45.14:377][336]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.14:378][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000950s)
+[2018.02.19-10.45.14:378][336]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.14:379][336]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2018.02.19-10.45.14:379][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.002067s)
+[2018.02.19-10.45.14:390][336]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.14:395][336]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.14:424][336]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.14:426][336]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.14
+[2018.02.19-10.45.14:427][336]LogWorld: Bringing up level for play took: 0.001847
+[2018.02.19-10.45.14:428][336]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.098
+[2018.02.19-10.45.16:663][597]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.45.18:697][831]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.18:724][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.18:724][831]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:18 PM)
+[2018.02.19-10.45.18:724][831]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.18:725][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000861s)
+[2018.02.19-10.45.18:725][831]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.18:726][831]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.02.19-10.45.18:726][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001775s)
+[2018.02.19-10.45.18:737][831]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.18:743][831]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.18:772][831]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.18:774][831]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.18
+[2018.02.19-10.45.18:775][831]LogWorld: Bringing up level for play took: 0.002028
+[2018.02.19-10.45.18:777][831]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.448
+[2018.02.19-10.45.28:374][974]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.28:401][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.28:401][974]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:28 PM)
+[2018.02.19-10.45.28:401][974]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.28:402][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2018.02.19-10.45.28:403][974]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.28:403][974]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.02.19-10.45.28:403][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001827s)
+[2018.02.19-10.45.28:414][974]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.28:420][974]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.28:449][974]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.28:452][974]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.28
+[2018.02.19-10.45.28:452][974]LogWorld: Bringing up level for play took: 0.001968
+[2018.02.19-10.45.28:453][974]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.124
+[2018.02.19-10.45.31:190][295]LogEditorViewport: Clicking Background
+[2018.02.19-10.45.31:679][353]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.45.36:913][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.36:940][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.36:941][970]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:36 PM)
+[2018.02.19-10.45.36:941][970]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.36:942][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001010s)
+[2018.02.19-10.45.36:942][970]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.36:943][970]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2018.02.19-10.45.36:943][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.002055s)
+[2018.02.19-10.45.36:954][970]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.36:960][970]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.36:990][970]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.36:993][970]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.36
+[2018.02.19-10.45.36:994][970]LogWorld: Bringing up level for play took: 0.002078
+[2018.02.19-10.45.36:995][970]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=438.960 Y=0.000 Z=208.242] for [HeroCharacter_C]
+[2018.02.19-10.45.36:995][970]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 417.431641 0.000000 208.241531
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.45.36:995][970]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.666
+[2018.02.19-10.45.38:902][191]LogEditorViewport: Clicking Background
+[2018.02.19-10.45.41:482][497]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.45.43:538][734]LogEditorViewport: Clicking Background
+[2018.02.19-10.45.45:464][962]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.45:491][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.45:491][962]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:45 PM)
+[2018.02.19-10.45.45:491][962]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.45:492][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000887s)
+[2018.02.19-10.45.45:492][962]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.45:493][962]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2018.02.19-10.45.45:493][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001939s)
+[2018.02.19-10.45.45:503][962]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.45:510][962]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.45:544][962]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.45:547][962]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.45
+[2018.02.19-10.45.45:547][962]LogWorld: Bringing up level for play took: 0.002124
+[2018.02.19-10.45.45:549][962]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.78
+[2018.02.19-10.45.52:794][824]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.52:821][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.52:821][824]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:52 PM)
+[2018.02.19-10.45.52:821][824]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.52:822][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001104s)
+[2018.02.19-10.45.52:823][824]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.52:823][824]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.02.19-10.45.52:823][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.002032s)
+[2018.02.19-10.45.52:833][824]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.52:839][824]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.52:873][824]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.52:875][824]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.52
+[2018.02.19-10.45.52:876][824]LogWorld: Bringing up level for play took: 0.002035
+[2018.02.19-10.45.52:877][824]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.548
+[2018.02.19-10.45.55:808][168]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.55:835][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.55:835][168]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:55 PM)
+[2018.02.19-10.45.55:836][168]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.55:836][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000820s)
+[2018.02.19-10.45.55:837][168]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.55:837][168]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.02.19-10.45.55:837][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001772s)
+[2018.02.19-10.45.55:848][168]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.55:854][168]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.55:886][168]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.55:889][168]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.55
+[2018.02.19-10.45.55:890][168]LogWorld: Bringing up level for play took: 0.001957
+[2018.02.19-10.45.55:891][168]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.438
+[2018.02.19-10.45.57:303][330]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.45.57:331][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.45.57:331][330]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:45:57 PM)
+[2018.02.19-10.45.57:331][330]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.45.57:332][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000713s)
+[2018.02.19-10.45.57:333][330]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.45.57:333][330]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2018.02.19-10.45.57:333][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001729s)
+[2018.02.19-10.45.57:343][330]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.45.57:349][330]LogInit: FAudioDevice initialized.
+[2018.02.19-10.45.57:378][330]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.45.57:381][330]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.45.57
+[2018.02.19-10.45.57:381][330]LogWorld: Bringing up level for play took: 0.001855
+[2018.02.19-10.45.57:383][330]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.947
+[2018.02.19-10.46.10:727][923]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.46.10:754][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.46.10:755][923]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:46:10 PM)
+[2018.02.19-10.46.10:755][923]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.46.10:756][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000931s)
+[2018.02.19-10.46.10:756][923]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.46.10:756][923]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2018.02.19-10.46.10:757][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001885s)
+[2018.02.19-10.46.10:768][923]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.46.10:774][923]LogInit: FAudioDevice initialized.
+[2018.02.19-10.46.10:804][923]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.46.10:806][923]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.46.10
+[2018.02.19-10.46.10:807][923]LogWorld: Bringing up level for play took: 0.001910
+[2018.02.19-10.46.10:808][923]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.479
+[2018.02.19-10.46.16:202][559]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.46.16:270][561]LogEditorViewport: Clicking on Component (LMB): PaperTileMapComponent (RenderComponent)
+[2018.02.19-10.48.17:076][842]LogSavePackage: Save=7.90ms
+[2018.02.19-10.48.17:076][842]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/TestingTileset8129F50B40D00CBFD3A0C6873A5A5BB7.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset'
+[2018.02.19-10.48.17:081][842]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Tilemaps/TestingTileset.uasset
+[2018.02.19-10.48.20:263][167]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.48.20:290][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.48.20:290][167]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:48:20 PM)
+[2018.02.19-10.48.20:290][167]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.48.20:291][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000935s)
+[2018.02.19-10.48.20:291][167]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.48.20:292][167]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.02.19-10.48.20:292][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.002011s)
+[2018.02.19-10.48.20:303][167]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.48.20:310][167]LogInit: FAudioDevice initialized.
+[2018.02.19-10.48.20:344][167]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.48.20:346][167]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.48.20
+[2018.02.19-10.48.20:347][167]LogWorld: Bringing up level for play took: 0.001855
+[2018.02.19-10.48.20:348][167]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=353.334 Y=0.000 Z=49.416] for [HeroCharacter_C]
+[2018.02.19-10.48.20:348][167]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 353.333649 0.000000 62.458046
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.48.20:348][167]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.019
+[2018.02.19-10.48.23:728][564]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.48.25:234][734]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.48.25:261][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.48.25:261][734]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:48:25 PM)
+[2018.02.19-10.48.25:262][734]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.48.25:263][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2018.02.19-10.48.25:263][734]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.48.25:263][734]LogPlayLevel: PIE: World Init took: (0.000657s)
+[2018.02.19-10.48.25:263][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001818s)
+[2018.02.19-10.48.25:275][734]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.48.25:281][734]LogInit: FAudioDevice initialized.
+[2018.02.19-10.48.25:313][734]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.48.25:315][734]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.48.25
+[2018.02.19-10.48.25:315][734]LogWorld: Bringing up level for play took: 0.001901
+[2018.02.19-10.48.25:317][734]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.988
+[2018.02.19-10.48.28:687][131]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.48.56:154][313]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.48.56:181][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.48.56:181][313]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:48:56 PM)
+[2018.02.19-10.48.56:181][313]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.48.56:182][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000919s)
+[2018.02.19-10.48.56:183][313]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.48.56:183][313]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.02.19-10.48.56:183][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001830s)
+[2018.02.19-10.48.56:195][313]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.48.56:204][313]LogInit: FAudioDevice initialized.
+[2018.02.19-10.48.56:235][313]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.48.56:238][313]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.48.56
+[2018.02.19-10.48.56:239][313]LogWorld: Bringing up level for play took: 0.002092
+[2018.02.19-10.48.56:240][313]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.089
+[2018.02.19-10.49.03:054][123]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.49.46:584][108]LogSavePackage: Save=12.79ms
+[2018.02.19-10.49.46:585][108]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/CollisionSystemTest727C656F4F82AFCCD09936A47609E4C6.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap'
+[2018.02.19-10.49.46:588][108]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap
+[2018.02.19-10.49.50:533][565]LogEditorViewport: Clicking Background
+[2018.02.19-10.49.55:283][130]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.49.57:518][381]LogSavePackage: Save=12.24ms
+[2018.02.19-10.49.57:518][381]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/CollisionSystemTest40B8688746EEC0FF9163A9B23B3F38A4.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap'
+[2018.02.19-10.49.57:520][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/testLevels/CollisionSystemTest.umap
+[2018.02.19-10.50.00:071][678]LogEditorViewport: Clicking Background
+[2018.02.19-10.50.15:006][330]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.02.19-10.50.34:164][284]LogRenderer: Reallocating scene render targets to support 796x868 Format 10 NumSamples 1 (Frame:1).
+[2018.02.19-10.50.47:049][371]BlueprintLog: New page: Compile Projectile
+[2018.02.19-10.50.47:681][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.19-10.50.47:771][407]LogSavePackage: Save=22.43ms
+[2018.02.19-10.50.47:771][407]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/ProjectileE70A8432453948F71EE9B8BA51F119A5.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.19-10.50.47:775][407]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.19-10.51.49:288][714]BlueprintLog: New page: Compile Projectile
+[2018.02.19-10.51.49:920][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.19-10.51.50:007][750]LogSavePackage: Save=21.67ms
+[2018.02.19-10.51.50:007][750]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/Projectile65838B5C4FA066D32DF46AA12243D472.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.19-10.51.50:011][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.19-10.51.53:793][177]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.51.53:830][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.51.53:830][177]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:51:53 PM)
+[2018.02.19-10.51.53:830][177]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.51.53:831][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000684s)
+[2018.02.19-10.51.53:831][177]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.51.53:831][177]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2018.02.19-10.51.53:831][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001526s)
+[2018.02.19-10.51.53:848][177]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.51.53:855][177]LogInit: FAudioDevice initialized.
+[2018.02.19-10.51.53:886][177]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.51.53:888][177]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.51.53
+[2018.02.19-10.51.53:889][177]LogWorld: Bringing up level for play took: 0.002430
+[2018.02.19-10.51.53:891][177]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.438
+[2018.02.19-10.52.41:812][600]LogEditorViewport: Clicking on Actor (LMB): Blobby_C (Blobby)
+[2018.02.19-10.52.49:499][457]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.52.49:526][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.52.49:527][457]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:52:49 PM)
+[2018.02.19-10.52.49:527][457]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.52.49:528][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001003s)
+[2018.02.19-10.52.49:528][457]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.52.49:528][457]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2018.02.19-10.52.49:529][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.002002s)
+[2018.02.19-10.52.49:546][457]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.52.49:552][457]LogInit: FAudioDevice initialized.
+[2018.02.19-10.52.49:584][457]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.52.49:586][457]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.52.49
+[2018.02.19-10.52.49:587][457]LogWorld: Bringing up level for play took: 0.002382
+[2018.02.19-10.52.49:588][457]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1059.726 Y=0.000 Z=177.416] for [HeroCharacter_C]
+[2018.02.19-10.52.49:588][457]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 1059.726196 0.000000 192.171509
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.52.49:589][457]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.74
+[2018.02.19-10.52.52:467][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.52.52:493][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.52.52:494][793]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:52:52 PM)
+[2018.02.19-10.52.52:494][793]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.52.52:495][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000885s)
+[2018.02.19-10.52.52:495][793]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.52.52:495][793]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.02.19-10.52.52:495][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001806s)
+[2018.02.19-10.52.52:512][793]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.52.52:518][793]LogInit: FAudioDevice initialized.
+[2018.02.19-10.52.52:552][793]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.52.52:554][793]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.52.52
+[2018.02.19-10.52.52:555][793]LogWorld: Bringing up level for play took: 0.002438
+[2018.02.19-10.52.52:556][793]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1059.726 Y=0.000 Z=177.416] for [HeroCharacter_C]
+[2018.02.19-10.52.52:556][793]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type HeroCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 1059.726196 0.000000 192.171509
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.02.19-10.52.52:557][793]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.228
+[2018.02.19-10.52.54:816][ 52]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.52.56:905][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.52.56:932][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.52.56:932][291]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:52:56 PM)
+[2018.02.19-10.52.56:932][291]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.52.56:933][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000907s)
+[2018.02.19-10.52.56:934][291]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.52.56:934][291]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2018.02.19-10.52.56:934][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001737s)
+[2018.02.19-10.52.56:949][291]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.52.56:956][291]LogInit: FAudioDevice initialized.
+[2018.02.19-10.52.56:992][291]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.52.56:995][291]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.52.56
+[2018.02.19-10.52.56:996][291]LogWorld: Bringing up level for play took: 0.002167
+[2018.02.19-10.52.56:997][291]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest 0.667
+[2018.02.19-10.53.33:709][224]BlueprintLog: New page: Compile Projectile
+[2018.02.19-10.53.34:273][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Projectile" FILE="../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset" SILENT=true
+[2018.02.19-10.53.34:355][260]LogSavePackage: Save=20.84ms
+[2018.02.19-10.53.34:355][260]LogSavePackage: Moving '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Saved/ProjectileC2ADE45C4E536F1104FE718D03E2F3F4.tmp' to '../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset'
+[2018.02.19-10.53.34:359][260]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/stagiaire/Documents/CoursJavaProjet/UnrealTutoPaper2D/TutoPaper2d/Content/Blueprint/Projectile.uasset
+[2018.02.19-10.53.37:300][589]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.53.37:333][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.53.37:333][589]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:53:37 PM)
+[2018.02.19-10.53.37:333][589]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.53.37:334][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000868s)
+[2018.02.19-10.53.37:334][589]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.53.37:334][589]LogPlayLevel: PIE: World Init took: (0.000487s)
+[2018.02.19-10.53.37:334][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001594s)
+[2018.02.19-10.53.37:350][589]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.53.37:357][589]LogInit: FAudioDevice initialized.
+[2018.02.19-10.53.37:392][589]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.53.37:395][589]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.53.37
+[2018.02.19-10.53.37:395][589]LogWorld: Bringing up level for play took: 0.002236
+[2018.02.19-10.53.37:397][589]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.932
+[2018.02.19-10.53.41:686][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.53.41:715][ 94]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.53.41:715][ 94]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:53:41 PM)
+[2018.02.19-10.53.41:715][ 94]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.53.41:716][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001043s)
+[2018.02.19-10.53.41:717][ 94]LogAIModule: Creating AISystem for world CollisionSystemTest
+[2018.02.19-10.53.41:717][ 94]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2018.02.19-10.53.41:717][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/testLevels/CollisionSystemTest.CollisionSystemTest to /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest (0.001930s)
+[2018.02.19-10.53.41:733][ 94]LogInit: XAudio2 using 'Haut-parleurs (Dell AC511 USB SoundBar)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.19-10.53.41:740][ 94]LogInit: FAudioDevice initialized.
+[2018.02.19-10.53.41:775][ 94]LogLoad: Game class is 'PaperGameMode_C'
+[2018.02.19-10.53.41:778][ 94]LogWorld: Bringing World /Game/testLevels/UEDPIE_0_CollisionSystemTest.CollisionSystemTest up for play (max tick rate 0) at 2018.02.19-11.53.41
+[2018.02.19-10.53.41:778][ 94]LogWorld: Bringing up level for play took: 0.002016
+[2018.02.19-10.53.41:780][ 94]PIE: Play in editor start time for /Game/testLevels/UEDPIE_0_CollisionSystemTest -0.55
+[2018.02.19-10.53.43:382][278]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.54.26:490][974]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.54.27:053][ 39]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.54.27:591][101]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2018.02.19-10.54.29:543][328]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TestingPlatformerTilemap)
+[2018.02.19-10.54.50:431][321]Cmd: TRANSACTION UNDO
+[2018.02.19-10.54.50:431][321]LogEditorTransaction: Undo Delete Layer
+[2018.02.19-10.54.50:661][345]Cmd: TRANSACTION UNDO
+[2018.02.19-10.54.50:661][345]LogEditorTransaction: Undo Promote To Asset
+[2018.02.19-10.54.51:126][393]Cmd: TRANSACTION UNDO
+[2018.02.19-10.54.51:126][393]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.02.19-10.54.54:161][748]LogEditorViewport: Clicking Background
+[2018.02.19-10.55.00:991][550]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.19-10.55.01:018][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.19-10.55.01:019][550]PIE: New page: PIE session: CollisionSystemTest (Feb 19, 2018, 12:55:01 PM)
+[2018.02.19-10.55.01:019][550]LogPlayLevel: Creating play world package: /Game/testLevels/UEDPIE_0_CollisionSystemTest
+[2018.02.19-10.55.01:595][550]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.572 s
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: 
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: Ensure condition failed: !(bDuplicateForPIE && DupObjectInfo.DuplicatedObject->HasAnyFlags(RF_Standalone)) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\UObjectGlobals.cpp] [Line: 2086]
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: 
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: Stack: 
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000F2EE2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000F2C8123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000F2C9B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000F0021AEF UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000F0020CC7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000DF48BC7D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000E1074A5C UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.19-10.55.01:595][550]LogOutputDevice: Error: [Callstack] 0x00000000DF488B51 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x00000000DF4B556E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x00000000DF4D192F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x00000000DEF26024 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x00000000DF7D4AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000008D9C5A26 UE4Editor.exe!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000008D9D5430 UE4Editor.exe!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000008D9D54AA UE4Editor.exe!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000008D9E2379 UE4Editor.exe!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000008D9E3D57 UE4Editor.exe!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x00000000265F1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: [Callstack] 0x000000002891EFC1 ntdll.dll!UnknownFunction []
+[2018.02.19-10.55.01:596][550]LogOutputDevice: Error: 
+[2018.02.19-10.55.01:603][550]LogStats:                SubmitErrorReport -  0.000 s
