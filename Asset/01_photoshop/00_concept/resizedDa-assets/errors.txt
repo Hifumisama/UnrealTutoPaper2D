@@ -1,2 +1,0 @@
-[2018-02-11 14:29:44] layer "hero_idle_f1.png copie": Expected end of input but "c" found.
-[2018-02-11 14:29:44] layer "hero_idle_f1.png copie 2": Expected end of input but "c" found.
