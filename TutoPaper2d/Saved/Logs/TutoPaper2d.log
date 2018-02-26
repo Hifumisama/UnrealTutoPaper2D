@@ -737,3 +737,5 @@ Make sure 'PlayerDataSave_C' has been compiled for  Set PlayerDataMaps
 [2018.02.26-11.13.43:673][763]SourceControl:  rewrite TutoPaper2d/Content/Data/SaveGameData/PlayerStatEnum.uasset (83%)
 [2018.02.26-11.13.43:673][763]SourceControl:  rewrite TutoPaper2d/Content/Data/SaveGameData/ValueTypeSelector.uasset (100%)
 [2018.02.26-11.13.43:677][763]SourceControl: Commited [master 64bae91] Was deleted to profit for a new data management paradigm.
+[2018.02.26-11.13.49:653][185]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2018.02.26-11.13.49:763][185]EditorErrors: Warning: No assets to check in!
